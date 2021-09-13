@@ -35,7 +35,7 @@ ATT_ODTAU = MIX_OD_ATT(81, 81, 24, 7, 64, 64, 100, 8, 1e-3, 16, 2, ba)
 ATT_ODTAU = ATT_ODTAU.to(device)
 batch_size = 32
 
-for e in range(140):
+for e in range(120):
     loss_sum = 0
     random.shuffle(a)
     for i in range(len(a)//batch_size - batch_size):
