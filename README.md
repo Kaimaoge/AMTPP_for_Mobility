@@ -6,8 +6,8 @@ Individual mobility prediction is an essential task for transportation demand ma
 
 ## Structure
 
-<img src="https://github.com/Kaimaoge/AMTPP_for_Mobility/blob/master/fig/Fig1new2-1.png" width="800">
-<img src="https://github.com/Kaimaoge/AMTPP_for_Mobility/blob/master/fig/Fig2new2-1.png" width="800">
+<img src="https://github.com/Kaimaoge/AMTPP_for_Mobility/blob/master/fig/fig2-encoder2.pdf" width="800">
+<img src="https://github.com/Kaimaoge/AMTPP_for_Mobility/blob/master/fig/fig2-emission2.pdf" width="800">
 
 ## Datasets
 The Hangzhou mobility dataset can be downloaded from [TianChi](https://www.kaggle.com/zjplab/hangzhou-metro-traffic-prediction/activity). We use hangzhou_traj.py to obtain datasets for training and evaluation
